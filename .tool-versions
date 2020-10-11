@@ -1,0 +1,4 @@
+kind 0.9.0
+kubectl 1.19.2
+helm 3.3.4
+istioctl 1.7.3
